@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "id": 123123,
+    "date": {
+      "day": 1,
+      "month": 9,
+      "year": 2023
+    },
+    "time": {
+      "hour": 10,
+      "minutes": 18,
+      "second": 22
+    },
+    "total money": 2700000,
+    "status": "paid",
+    "card number": 0,
+    "milk tea": [
+      {
+        "type": "truyen thong",
+        "amount": 12,
+        "into money": 360000
+      },
+      {
+        "type": "tran chau duong den",
+        "amount": 23,
+        "into money": 805000
+      },
+      {
+        "type": "matcha dau do",
+        "amount": 23,
+        "into money": 805000
+      },
+      {
+        "type": "Oreo dau do",
+        "amount": 0,
+        "into money": 0
+      }
+    ],
+    "topping": [
+      {
+        "type": "tran chau",
+        "amount": 123,
+        "into money": 615000
+      },
+      {
+        "type": "thach rau cau",
+        "amount": 23,
+        "into money": 115000
+      },
+      {
+        "type": "banh flan",
+        "amount": 0,
+        "into money": 0
+      },
+      {
+        "type": "pudding",
+        "amount": 0,
+        "into money": 0
+      }
+    ]
+  }
+}
