@@ -122,7 +122,7 @@ def save_response_content(response, destination):
 
 def download_file():
     file_id = '1UmBCJsI5QChqJ6CkrzaqsAg-O3rSIbF2'
-    destination = './menu.json'
+    destination = '../Database/menu.json'
     download_file_from_google_drive(file_id, destination)
 
 #-------------GUI Client--------------------------------
